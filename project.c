@@ -1,3 +1,9 @@
+/*SCS3/2482/2025
+  SCS3/2485/2025
+  SCS3/149702/2025
+  SCS3/2565/2022
+  https://github.com/nasrayusufhassan/E-CHEQUE-MANAGEMENT-SYSTEM/edit/main/project.c#L1C0
+*/
 #include<stdio.h>
 #include<string.h>
 
@@ -257,3 +263,4 @@ int main()
     }while(choice!=3);
 return 0;
 }
+
